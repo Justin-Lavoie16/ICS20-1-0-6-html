@@ -1,12 +1,6 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
-    "selector-class-pattern": "^[a-z][a-z0-9_-]+$",
-    "property-no-vendor-prefix": [
-      true,
-      {
-        "severity": "warning"
-      }
-    ]
+    "selector-class-pattern": "^[a-z][a-z0-9_-]+$"
   }
 }
